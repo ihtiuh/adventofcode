@@ -1,2 +1,2 @@
 # Advent of Code
-My solutions
+My solutions for the yearly [adventofcode.com](adventofcode.com)
